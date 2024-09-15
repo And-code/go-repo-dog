@@ -9,3 +9,7 @@ func WhenGrownUp(s string) string {
 func From10() string {
 	return "Code of version v.1.0.0"
 }
+
+func From11() string {
+	return "Code of version v.1.1.0"
+}
